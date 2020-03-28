@@ -6,7 +6,9 @@ The program is intended for live tracking of player statistics at a basketball g
 
 ## Usage instructions
 + Download and extract GameStatistics.rar
-+ Run GameStatistics (Application file) from GameStatistics\bin\Debug
++ Download PDFViewerSetup.exe and install PDF Viewer (even without this step the program will work fine, you just won't be able to view the help directly from the program).
++ Run GameStatistics (Application file) from GameStatistics\GameStatistics\bin\Debug
++ Before you start working with the program, we recommend you to visit BasketballGameStatisticsInstruction.pdf
 
 ## Programming language
 + C#
