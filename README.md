@@ -5,7 +5,7 @@
 The program is intended for live tracking of player statistics at a basketball game. Initially the user enters the required team information or selects the already offered team. Based on what happens on the field, players are noted for their performance (points, assists, steals, turnovers, rebounds, fouls, blocks, minutes played, shooting percent). At the end of the game, a pdf file that stores tables with detailed player performance  is generated.
 
 ## Usage instructions
-+ Download and extract GameStatisticsSetup.rar located
++ Download and extract GameStatisticsSetup.rar
 + Run setup.exe from /GameStatisticsSetup/Debug
 + After installation run GameStatistics.exe from your installation folder, or run shortcut on Desktop
 + **Make sure you run it as administrator**
